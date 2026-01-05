@@ -19,27 +19,16 @@ Small project: Eneba-style game listing UI (React + Vite) with a Node/Express ba
 ## How to run
 
 ### Backend (port 5174)
-```bash
-npm install
-node index.js
-```
+Terminal 1: cd server → npm install → npm start
+
+### Frontend (port 5173)
+Terminal 2: cd client → npm install → npm run dev
 
 Check:
 
 * http://localhost:5174/health
 * http://localhost:5174/list
 * http://localhost:5173/
-
-### Frontend (port 5173)
-
-```bash
-npm install
-npm run dev
-```
-
-Open:
-
-* http://localhost:5173
 
 ## Pages
 
