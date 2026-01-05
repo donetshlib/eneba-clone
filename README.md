@@ -26,8 +26,9 @@ node index.js
 
 Check:
 
-* [http://localhost:5174/health](http://localhost:5174/health)
-* [http://localhost:5174/list](http://localhost:5174/list)
+* http://localhost:5174/health
+* http://localhost:5174/list
+* http://localhost:5173/
 
 ### Frontend (port 5173)
 
