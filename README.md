@@ -19,7 +19,7 @@ Small project: Eneba-style game listing UI (React + Vite) with a Node/Express ba
 ## How to run
 
 ### Backend (port 5174)
-Terminal 1: cd server → npm install → npm start
+Terminal 1: cd server → npm install → npm run seed (optional) – fill DB with sample games → npm start
 
 ### Frontend (port 5173)
 Terminal 2: cd client → npm install → npm run dev
